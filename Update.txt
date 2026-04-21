@@ -1,6 +1,8 @@
-Last Updated: 21 April 2026
-v2.1
-Added: New speed hack feature
-Fixed: Crash on startup
+Last Updated: 21/04/2026
+
+Logs Update
+Added: Online Update 
+Fixed: Bugs 32bit
+Fixed: Crash 
 Removed: Old bypass method
-Updated: Anti-ban system
+Updated: New Hookings
