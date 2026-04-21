@@ -1,5 +1,6 @@
-last Update: 2026/04/21
-
-logs 
-added speed Hack 
-fixed Bugs 32bit version
+Last Updated: 21 April 2026
+v2.1
+Added: New speed hack feature
+Fixed: Crash on startup
+Removed: Old bypass method
+Updated: Anti-ban system
