@@ -1,6 +1,5 @@
 Last Updated: 21/04/2026
 
-Logs Update
 Added: Online Update 
 Fixed: Bugs 32bit
 Fixed: Crash 
