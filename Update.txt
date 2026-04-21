@@ -1,0 +1,5 @@
+last Update: 2026/04/21
+
+logs 
+added speed Hack 
+fixed Bugs 32bit version
