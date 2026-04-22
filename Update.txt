@@ -1,8 +1,6 @@
 
-Last Updated: 21/04/2026
+Last Updated: 23/04/2026
 
-Added: Online Update 
-Fixed: Bugs 32bit
+Removed: Login System 
 Fixed: Crash 
-Removed: Old bypass method
 Updated: New Hookings
