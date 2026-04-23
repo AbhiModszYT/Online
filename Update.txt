@@ -3,3 +3,4 @@ Last Updated: 24/04/2026
 
 Fixed : AntiStealth 
 Fixed: Physics Gravity
+Fixed: Auto Crashing
