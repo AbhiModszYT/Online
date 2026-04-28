@@ -1,6 +1,7 @@
 
 Last Updated: 28/04/2026
 
-Fixed : Mirror Bugs
-Removed : AntiLeachCrash
+Fixed : login system Improved
+Removed : Firebase 
+Updated : 😵‍💫😵‍💫
 Updated : 😵‍💫😵‍💫
