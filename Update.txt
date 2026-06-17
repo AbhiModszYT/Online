@@ -1,8 +1,8 @@
 
-Last Updated: 21/05/2026
+Last Updated: 17/06/2026
 
-Added : New Bypass 
-Added : New Signature Verification Bypass
+Added : Locked 120FPS
+Added : Freeze Spiders
 Updated : 😵‍💫😵‍💫
 Updated : 😵‍💫😵‍💫
 
